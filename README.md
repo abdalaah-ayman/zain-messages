@@ -11,7 +11,7 @@ This project allows debt collectors to quickly produce message templates with pl
 - RTL (Arabic) support for professional usage.
 
 ## Demo
-[Live Demo](https://username.github.io/zain-messages)
+[Live Demo]([https://username.github.io/zain-messages](https://sites.google.com/view/commission--calculator/home))
 
 ## Technologies
 - HTML, CSS, Bootstrap
