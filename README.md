@@ -11,7 +11,7 @@ This project allows debt collectors to quickly produce message templates with pl
 - RTL (Arabic) support for professional usage.
 
 ## Demo
-[Live Demo](https://sites.google.com/view/commission--calculator/home)
+[Live Demo](https://sites.google.com/view/ms-zeen/home)
 
 ## Technologies
 - HTML, CSS, Bootstrap
